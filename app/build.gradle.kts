@@ -39,7 +39,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.Wafelkertas"
-            artifactId = "childapplicationview"
+            artifactId = "ChildApplicationView"
             version = "1.0.0"
 
         }
